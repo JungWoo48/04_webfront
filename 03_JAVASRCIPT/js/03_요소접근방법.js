@@ -18,7 +18,7 @@ function fnTest1() {
 // class 로 변경하기
 function fnTest2() {
     // 요소 여러개를 한번에 접근하는 경우 배열(list) 형태로 반환됨
-    const arr = document.getElementsByClassName("div2");
+    const arr = document.getElementsByClassName("area2");
 
     //console.log(arr);
 
